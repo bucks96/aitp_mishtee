@@ -1,0 +1,4 @@
+Group,Output
+Pithy Slogans,"* Purity, Reimagined.  * The Golden Standard of Mithai.  * Mindful Magic in Every Bite."
+'Our Story' Blurb,"Born from a desire to marry ancient Ayurvedic purity with modern wellness, MishTee-Magic crafts artisanal sweets using organic A2 milk and mindful ingredients. We believe that true indulgence shouldn't compromise your health, so we’ve bottled the magic of heritage into every guilt-free, golden bite."
+Collection Names,"* The Vedic Gold Series (Signature A2 milk-based sweets)  * The Earth & Ember Range (Terracotta-inspired, roasted nut & seed delicacies)  * The Saffron Alchemy (Luxury infused classics)  * The Conscious Bloom (Low-sugar, low-gluten healthy alternatives)"
